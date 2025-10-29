@@ -64,4 +64,4 @@ Brown, Clara                      $950.50
 ### Author
 Vladislav Lamakin  
 lamakinvladislav@gmail.com  
-https://github.com/3dimir/3dimir
+https://github.com/3dimir
