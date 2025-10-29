@@ -1,5 +1,5 @@
 # Payroll
-A **Java console application** that simulates a simple payroll management system.
+A **Java console application** that simulates a simple payroll management system.  
 This program allows you to **create, search, and manage employees**, calculate paychecks, and display payroll reports using
 sorting and searching algorithms implemented manually (Quick Sort, Selection Sort, Sequential Search and Binary Search).
 
