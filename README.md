@@ -17,6 +17,7 @@ sorting and searching algorithms implemented manually (Quick Sort, Selection Sor
 ---
 
 ## Examples
+### Main Menu
 ```
 PAYROLL SYSTEM
 
@@ -28,6 +29,7 @@ PAYROLL SYSTEM
 4) Run Payroll
 5) Quit
 ```
+### Creating Employee
 ```
 ===== CREATE AN EMPLOYEE =====
 
@@ -49,6 +51,7 @@ $60000
 
 ===== SUCCESSFULLY CREATED EMPLOYEE =====
 ```
+### Running Payroll
 ```
 ================ PAYROLL ================
 
